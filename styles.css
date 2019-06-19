@@ -1,0 +1,47 @@
+.header{
+  width: 100%;
+  height: 100vh;
+  background-color: red;
+}
+
+.about{
+  width: 100%;
+  height: 100vh;
+  background-color: blue;
+}
+
+.experience{
+  width: 100%;
+  height: 100vh;
+  background-color: green;
+}
+
+.word_1{
+  width: 100%;
+  height: 100vh;
+  background-color: red;
+}
+
+.word_2{
+  width: 100%;
+  height: 100vh;
+  background-color: yellow;
+}
+
+.word_3{
+  width: 100%;
+  height: 100vh;
+  background-color: pink;
+}
+
+.publications{
+  width: 100%;
+  height: 100vh;
+  background-color: purple;
+}
+
+.footer{
+  width: 100%;
+  height: 100vh;
+  background-color: lightgrey;
+}
